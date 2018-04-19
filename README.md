@@ -1,2 +1,2 @@
-# zadanie10_3
-https://teyreach.github.io/zadanie10_3/
+# jquery-2
+ https://teyreach.github.io/jquery-2/
